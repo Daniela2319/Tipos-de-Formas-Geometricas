@@ -11,7 +11,7 @@ os valores de área e de perimetro.
 ![forma geometricaPOO](https://user-images.githubusercontent.com/106537496/193696613-0619bdbb-0969-43e1-8261-dde7b0433b44.png)
 
                                  Figura 1  - Diagrama de Classes de Formas Geométricas
-                                            Fonte : Caíque Cardoso - Orientação a Objeto Prática. 
+                                 Fonte: Caíque Cardoso - Orientação a Objeto Prática. 
                                  
                                  
                               
